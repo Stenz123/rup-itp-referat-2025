@@ -73,7 +73,7 @@ marp: true
 
 ---
 
-## Statische Aspekte (Fortsetzung)
+## Statische Aspekte
 
 - **Unterstützende Disziplinen:**
   - Konfigurations- und Änderungsmanagement
@@ -82,7 +82,7 @@ marp: true
 
 ---
 
-## Phasen des RUP – Überblick
+## Phasen des RUP
 
 - **Inception:** Projektinitialisierung & Planung
 - **Elaboration:** Detaillierte Planung, Architektur und Risikomanagement
@@ -209,6 +209,10 @@ marp: true
 
 ---
 
+![bg 95%](./img/firmen.png)
+
+---
+
 ## Zusammenfassung & Fazit
 
 - RUP: Ein strukturierter, iterativer Ansatz zur Softwareentwicklung
@@ -219,6 +223,9 @@ marp: true
 ---
 
 # Vielen Dank für Eure Aufmerksamkeit!
+
+https://github.com/Stenz123/rup-itp-referat-2025/
+https://stenz123.github.io/rup-itp-referat-2025/
 
 ---
 
